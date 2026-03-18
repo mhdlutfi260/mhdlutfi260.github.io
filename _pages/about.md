@@ -28,10 +28,11 @@ actionable national policies.
 
 ## Education
 
-**Bachelor of Agriculture** — Gadjah Mada University *(2019–2023)*  
+**Bachelor of Agriculture** in Plant Protection
+Gadjah Mada University *(2019–2023)*  
 *Pertamina Foundation Scholarship & Cargill Global Scholarship Program*
 
-**Master of Environment** *(Environmental Law and Economics)*  
+**Master of Environment** in Environmental Law and Economics  
 The University of Melbourne *(2026–2028)*  
 *Indonesia Endowment Fund for Education (LPDP) Scholarship*
 
