@@ -25,7 +25,6 @@ with a focus on translating international environmental commitments into
 actionable national policies.
 
 ## Education
-
 **Bachelor of Agriculture** in Plant Protection  
 Gadjah Mada University *(2019–2023)*  
 *Pertamina Foundation Scholarship & Cargill Global Scholarship Program*
@@ -35,11 +34,9 @@ The University of Melbourne *(2026–2028)*
 *Indonesia Endowment Fund for Education (LPDP) Scholarship*
 
 ## Research Interests
-
 - Biodiversity conservation and environmental policy
 - Climate change policy and economics
-- International environmental agreements and game theory 
+- International environmental agreements and game theory
 
 ## Contact
-
 Feel free to reach out for collaborations and discussions at [mhdlutfi260@gmail.com](mailto:mhdlutfi260@gmail.com).
