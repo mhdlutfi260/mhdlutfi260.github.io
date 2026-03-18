@@ -40,7 +40,7 @@ The University of Melbourne *(2026–2028)*
 
 - Biodiversity conservation and environmental policy
 - Climate change policy and economics
-- International environmental agreement and game theory 
+- International environmental agreements and game theory 
 
 ---
 
