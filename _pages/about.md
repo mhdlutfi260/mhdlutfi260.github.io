@@ -28,7 +28,7 @@ actionable national policies.
 
 ## Education
 
-**Bachelor of Agriculture** in Plant Protection
+**Bachelor of Agriculture** in Plant Protection  
 Gadjah Mada University *(2019–2023)*  
 *Pertamina Foundation Scholarship & Cargill Global Scholarship Program*
 
