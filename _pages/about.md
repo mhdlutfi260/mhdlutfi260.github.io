@@ -1,11 +1,11 @@
----
+------
 permalink: /
 title: "Muhammad Lutfi"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+------
 
 I am a development practitioner specializing in the intersection of 
 climate economics and conservation policy. I currently serve as a 
@@ -24,7 +24,7 @@ My work sits at the nexus of ecological integrity and socioeconomic development,
 with a focus on translating international environmental commitments into 
 actionable national policies.
 
----
+------
 
 ## Education
 
@@ -36,7 +36,7 @@ Gadjah Mada University *(2019–2023)*
 The University of Melbourne *(2026–2028)*  
 *Indonesia Endowment Fund for Education (LPDP) Scholarship*
 
----
+------
 
 ## Research Interests
 
@@ -44,7 +44,7 @@ The University of Melbourne *(2026–2028)*
 - Climate change policy and economics
 - International environmental agreements and game theory 
 
----
+------
 
 ## Contact
 
