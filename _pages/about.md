@@ -34,6 +34,7 @@ actionable national policies.
 **Master of Environment** *(Environmental Law and Economics)*  
 The University of Melbourne *(2026–2028)*  
 *Indonesia Endowment Fund for Education (LPDP) Scholarship*
+
 ---
 
 ## Research Interests
