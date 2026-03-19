@@ -47,9 +47,13 @@ $sidebar-screen-min-width   : 1024px;
     --global-link-color                 : #{$link};
     --global-link-color-hover           : #{$link-dark};
     --global-link-color-visited         : #{$link-light};
-    --global-masthead-link-color        : #1a3a4a;
-    --global-masthead-link-color-hover  : #ffffff;
+    --global-masthead-link-color        : #ffffff;
+    --global-masthead-link-color-hover  : #cccccc;
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-primary-color};
     --global-thead-color                : #{$background-lighter};
+}
+.masthead {
+  background-color: $primary-color !important; 
+  border-bottom: 1px solid mix(#000, $primary-color, 20%);
 }
