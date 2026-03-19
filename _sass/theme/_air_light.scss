@@ -57,3 +57,9 @@ $sidebar-screen-min-width   : 1024px;
   background-color: $primary-color !important; 
   border-bottom: 1px solid mix(#000, $primary-color, 20%);
 }
+
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav {
+  background-color: transparent !important;
+}
