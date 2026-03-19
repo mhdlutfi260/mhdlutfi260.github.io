@@ -20,7 +20,7 @@
     position: absolute;
     bottom: 0;
     height: 1px;
-    background: #1a3a4a
+    background: rgba(255,255,255,0.1);
     width: 100%;
   }
 
@@ -55,7 +55,7 @@
 }
 
 .masthead__menu-item {
-  background-color: var(--global-bg-color);
+  background-color: #1a3a4a
   display: block;
   list-style-type: none;
   white-space: nowrap;
