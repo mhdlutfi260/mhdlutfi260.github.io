@@ -23,19 +23,12 @@ My work sits at the nexus of ecological integrity and socioeconomic development,
 with a focus on translating international environmental commitments into 
 actionable national policies.
 
----
-
-## Project Achievements
-
 During my tenure at GIZ Indonesia, I contributed to the development of several 
 key national and regional policy documents:
 
 - [Indonesia Biodiversity Strategy and Action Plan 2025–2045 (IBSAP)](https://perpustakaan.bappenas.go.id/e-library/file_upload/koleksi/dokumenbappenas/konten/Upload%20Terbaru/IBSAP%202025-2045.pdf)
-
 - [Indonesia Biodiversity Status Report 2024](https://perpustakaan.bappenas.go.id/e-library/file_upload/koleksi/dokumenbappenas/konten/Dokumen%202025/Konten/Buku_Status%20Kekinian%20Kehati%20Indonesia%202024_.pdf)
-
 - [Indonesia's 2nd Nationally Determined Contribution (2nd NDC)](https://unfccc.int/sites/default/files/2025-10/Indonesia_Second%20NDC_2025.10.24.pdf)
-
 - [ASEAN Peatland Management Strategy (APMS)](https://asean.org/wp-content/uploads/2024/04/APMS-2-Apr-Web.pdf)
 
 ## Education
