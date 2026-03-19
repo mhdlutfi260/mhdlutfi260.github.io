@@ -10,17 +10,13 @@
 
 @import
     "vendor/breakpoint/breakpoint",
-
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
     "include/mixins",
     "vendor/susy/susy",
-
     "layout/reset",
     "layout/base",
-
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -29,19 +25,21 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-
     "layout/forms",
-
     "layout/page",
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv",
-
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
 
+/* ============================================
+   CUSTOM OVERRIDES — Muhammad Lutfi
+   ============================================ */
+
+// ── Subtle link underline ──────────────────────
 .page__content a,
 .author__bio a {
   text-decoration: none;
@@ -54,7 +52,6 @@
   }
 }
 
-// Pastikan navigasi & sidebar links tidak ikut berubah
 .masthead a,
 .author__urls a,
 .author__name a,
@@ -63,4 +60,45 @@
 nav a {
   border-bottom: none !important;
   text-decoration: none;
+}
+
+// ── Header / Masthead ──────────────────────────
+.masthead {
+  background-color: #1a3a4a;
+  border-bottom: none;
+
+  a, .masthead__menu-item {
+    color: #ffffff !important;
+
+    &:hover {
+      color: #a8d5ba !important;
+    }
+  }
+}
+
+// ── Sidebar ────────────────────────────────────
+.sidebar {
+  background-color: #f0f4f2;
+  padding: 1.5em;
+  border-radius: 6px;
+
+  .author__name {
+    color: #1a3a4a;
+  }
+
+  .author__bio {
+    color: #4a5568;
+  }
+
+  .author__urls a {
+    color: #2d6a4f;
+
+    &:hover {
+      color: #1a3a4a;
+    }
+  }
+}
+
+.sidebar.sticky {
+  width: 260px;
 }
