@@ -27,8 +27,8 @@ key national and regional policy documents:
 - [Indonesia's 2nd Nationally Determined Contribution (2nd NDC)](https://unfccc.int/sites/default/files/2025-10/Indonesia_Second%20NDC_2025.10.24.pdf)
 - [ASEAN Peatland Management Strategy (APMS)](https://asean.org/wp-content/uploads/2024/04/APMS-2-Apr-Web.pdf)
 
-Education
-======
+## Education
+------
 **Bachelor of Agriculture** in Plant Protection  
 Gadjah Mada University (2019–2023)  
 *Pertamina Foundation Scholarship & Cargill Global Scholarship Program*
@@ -37,13 +37,13 @@ Gadjah Mada University (2019–2023)
 The University of Melbourne (2026–2028)  
 *Indonesia Endowment Fund for Education (LPDP) Scholarship*
 
-Research Interests
-======
+## Research Interests
+------
 - Biodiversity conservation and environmental policy
 - Climate change policy and economics
 - International environmental agreements and game theory
 
-Contact
-======
+## Contact
+------
 Feel free to reach out for collaborations and discussions at 
 [mhdlutfi260@gmail.com](mailto:mhdlutfi260@gmail.com).
