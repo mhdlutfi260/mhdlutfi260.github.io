@@ -53,13 +53,27 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color-light           : #{$light-primary-color};
     --global-thead-color                : #{$background-lighter};
 }
-.masthead {
-  background-color: $primary-color !important; 
-  border-bottom: 1px solid mix(#000, $primary-color, 20%);
+// ── Masthead background ────────────────────────
+.greedy-nav {
+  background: $primary-color !important;
 }
 
-.masthead__inner-wrap,
-.masthead__menu,
-.greedy-nav {
-  background-color: transparent !important;
+.masthead {
+  background-color: $primary-color !important;
+  border-bottom: 1px solid mix(#fff, $primary-color, 20%);
+}
+
+.masthead__inner-wrap {
+  background: transparent !important;
+}
+
+// Warna teks navbar pastikan putih
+.greedy-nav a,
+.greedy-nav .visible-links a,
+.greedy-nav button {
+  color: #ffffff !important;
+
+  &:hover {
+    color: #a8d5ba !important;
+  }
 }
