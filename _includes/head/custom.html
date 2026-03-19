@@ -1,17 +1,42 @@
 {% include base_path %}
 
-<!-- start custom head snippets -->
-
-<!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
-<meta name="theme-color" content="#ffffff"/>
 
-<!-- end custom head snippets -->
+<meta name="theme-color" content="#1a3a4a"/>
+
+<style>
+  /* Memaksa semua lapisan header dan menu menjadi biru gelap */
+  .masthead,
+  .masthead__inner-wrap,
+  .masthead__menu,
+  .greedy-nav {
+    background-color: #1a3a4a !important; 
+    border: none !important;
+  }
+  
+  
+  .masthead {
+    border-bottom: 1px solid #0d1d25 !important;
+  }
+
+  
+  .greedy-nav a,
+  .greedy-nav button,
+  .masthead__menu-item {
+    color: #ffffff !important;
+  }
+
+  
+  .greedy-nav a:hover,
+  .greedy-nav button:hover,
+  .masthead__menu-item:hover {
+    color: #cccccc !important;
+  }
+</style>
