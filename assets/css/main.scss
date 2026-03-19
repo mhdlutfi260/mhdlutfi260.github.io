@@ -41,3 +41,26 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.page__content a,
+.author__bio a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.18);
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-bottom-color: rgba(0, 0, 0, 0.55);
+    text-decoration: none;
+  }
+}
+
+// Pastikan navigasi & sidebar links tidak ikut berubah
+.masthead a,
+.author__urls a,
+.author__name a,
+.btn,
+.pagination a,
+nav a {
+  border-bottom: none !important;
+  text-decoration: none;
+}
