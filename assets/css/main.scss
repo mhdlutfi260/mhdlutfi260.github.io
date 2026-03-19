@@ -3,6 +3,9 @@
 
 /*
  * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
 @import
@@ -36,52 +39,87 @@
    CUSTOM OVERRIDES — Muhammad Lutfi
    ============================================ */
 
-.masthead {
-  background-color: #1a3a4a !important;
-}
-
-.masthead__inner-wrap {
-  background-color: #1a3a4a !important;
-}
-
-.masthead a,
-.site-title,
-.masthead__menu-item > a {
-  color: #ffffff !important;
-}
-
-.masthead a:hover,
-.masthead__menu-item > a:hover {
-  color: #a8d5ba !important;
-}
-
-.page__content a {
+// ── Subtle link underline ──────────────────────
+.page__content a,
+.author__bio a {
   text-decoration: none;
   border-bottom: 1px solid rgba(0, 0, 0, 0.18);
-}
+  transition: border-color 0.2s ease;
 
-.page__content a:hover {
-  border-bottom-color: rgba(0, 0, 0, 0.55);
-  text-decoration: none;
+  &:hover {
+    border-bottom-color: rgba(0, 0, 0, 0.55);
+    text-decoration: none;
+  }
 }
 
 .masthead a,
 .author__urls a,
+.author__name a,
 .btn,
+.pagination a,
 nav a {
   border-bottom: none !important;
+  text-decoration: none;
 }
 
+// ── Sidebar ────────────────────────────────────
 .sidebar {
   background-color: #f0f4f2;
   padding: 1.5em;
   border-radius: 6px;
+
+  .author__name {
+    color: #1a3a4a;
+  }
+
+  .author__bio {
+    color: #4a5568;
+  }
+
+  .author__urls a {
+    color: #2d6a4f;
+
+    &:hover {
+      color: #1a3a4a;
+    }
+  }
 }
 
+.sidebar.sticky {
+  width: 260px;
+}
+
+// ── Font Size — Landing Page ───────────────────
+
+// Judul halaman ("About me")
+.page__title {
+  font-size: 1.8em;
+}
+
+// Paragraf isi konten
+.page__content p {
+  font-size: 0.95em;
+  line-height: 1.8;   // jarak antar baris — semakin besar semakin longgar
+}
+
+// Heading section (## Education, ## Research Interests, dll)
+.page__content h2 {
+  font-size: 1.3em;
+}
+
+// Bullet list items
+.page__content li {
+  font-size: 0.95em;
+  line-height: 1.7;
+}
+
+// Nama di sidebar
 .author__name {
-  color: #1a3a4a;
+  font-size: 1.1em;
 }
 
-.author__urls a {
-  color: #2d6a4f;
+// Bio di sidebar
+.author__bio {
+  font-size: 0.8em;
+  line-height: 1.6;
 }
