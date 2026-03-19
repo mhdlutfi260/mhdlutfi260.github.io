@@ -1,73 +1,32 @@
----
----
-
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
-
-@import
-    "vendor/breakpoint/breakpoint",
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-    "include/mixins",
-    "vendor/susy/susy",
-    "layout/reset",
-    "layout/base",
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
-    "layout/forms",
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
-
 /* ============================================
    CUSTOM OVERRIDES — Muhammad Lutfi
    ============================================ */
 
-// ── Subtle link underline ──────────────────────
-.page__content a,
-.author__bio a {
-  text-decoration: none;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.18);
-  transition: border-color 0.2s ease;
+// ── Override CSS Variables Tema ────────────────
+:root {
+  // Warna masthead/header
+  --global-masthead-bg-color     : #1a3a4a;
+  --global-masthead-link-color   : #ffffff;
+  --global-masthead-link-color-hover: #a8d5ba;
 
-  &:hover {
-    border-bottom-color: rgba(0, 0, 0, 0.55);
-    text-decoration: none;
-  }
+  // Warna link di konten
+  --global-link-color            : #2d6a4f;
+  --global-link-color-hover      : #1a3a4a;
+  --global-link-color-visited    : #4a7c6f;
 }
 
-.masthead a,
-.author__urls a,
-.author__name a,
-.btn,
-.pagination a,
-nav a {
-  border-bottom: none !important;
-  text-decoration: none;
-}
-
-// ── Header / Masthead ──────────────────────────
+// ── Masthead (fallback tambahan) ───────────────
 .masthead {
-  background-color: #1a3a4a;
-  border-bottom: none;
+  background-color: #1a3a4a !important;
+  border-bottom: 2px solid #a8d5ba;
 
-  a, .masthead__menu-item {
+  .masthead__inner-wrap {
+    background-color: #1a3a4a !important;
+  }
+
+  a, .masthead__menu-item, 
+  .masthead__menu-item a,
+  .site-title {
     color: #ffffff !important;
 
     &:hover {
@@ -76,26 +35,37 @@ nav a {
   }
 }
 
+// ── Subtle link underline ──────────────────────
+.page__content a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.18);
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-bottom-color: rgba(0, 0, 0, 0.55);
+  }
+}
+
+.masthead a,
+.author__urls a,
+.author__name a,
+.btn,
+nav a {
+  border-bottom: none !important;
+}
+
 // ── Sidebar ────────────────────────────────────
 .sidebar {
   background-color: #f0f4f2;
   padding: 1.5em;
   border-radius: 6px;
 
-  .author__name {
-    color: #1a3a4a;
-  }
-
-  .author__bio {
-    color: #4a5568;
-  }
+  .author__name { color: #1a3a4a; }
+  .author__bio  { color: #4a5568; }
 
   .author__urls a {
     color: #2d6a4f;
-
-    &:hover {
-      color: #1a3a4a;
-    }
+    &:hover { color: #1a3a4a; }
   }
 }
 
