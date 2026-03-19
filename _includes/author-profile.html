@@ -159,12 +159,14 @@
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing icon-pad-right" aria-hidden="true"></i>XING</a></li>
       {% endif %}
-      {% if author.youtube %}
-        <li><a href="https://www.youtube.com/@{{ author.youtube }}"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
+      {% if author.ssrn %}
+        <li><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ author.ssrn }}"><i class="fas fa-fw fa-file-alt icon-pad-right" aria-hidden="true"></i>SSRN</a></li>
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+      
+      
     </ul>
   </div>
 </div>
