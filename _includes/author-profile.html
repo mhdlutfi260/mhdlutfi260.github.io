@@ -160,7 +160,7 @@
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing icon-pad-right" aria-hidden="true"></i>XING</a></li>
       {% endif %}
       {% if author.ssrn %}
-        <li><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ author.ssrn }}"><i class="fas fa-fw fa-file-alt icon-pad-right" aria-hidden="true"></i>SSRN</a></li>
+        <li><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ author.ssrn }}"><img src="{{ base_path }}/images/ssrn.png" style="width:14px; margin-right:5px; vertical-align:middle;" aria-hidden="true"/>SSRN</a></li>
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
