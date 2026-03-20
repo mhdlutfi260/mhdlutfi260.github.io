@@ -53,3 +53,13 @@
   border-bottom: 1px solid rgba(26, 58, 74, 0.15);
   padding-bottom: 0.3em;
 }
+
+/* Hapus underline link */
+.page__content a {
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.page__content a:hover {
+  border-bottom: 1px solid rgba(51, 94, 207, 0.3);
+}
