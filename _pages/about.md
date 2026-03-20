@@ -27,7 +27,7 @@ key national and regional policy documents:
 - [Indonesia's 2nd Nationally Determined Contribution (2nd NDC)](https://unfccc.int/sites/default/files/2025-10/Indonesia_Second%20NDC_2025.10.24.pdf)
 - [ASEAN Peatland Management Strategy (APMS)](https://asean.org/wp-content/uploads/2024/04/APMS-2-Apr-Web.pdf)
 
-<h2 style="color: #1a3a4a;">Education</h2>
+<h2 style="color: #335ecf;">Education</h2>
 
 <div style="line-height: 1.4; margin-bottom: 1.5em;">
   <strong>Bachelor of Science in Agriculture</strong> <br>
