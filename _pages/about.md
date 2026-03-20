@@ -29,14 +29,17 @@ key national and regional policy documents:
 
 <h2 style="color: #1a3a4a;">Education</h2>
 
-**Bachelor of Science in Agriculture** <br>
-<span style="color: #555;">Universitas Gadjah Mada</span> <br>
-<small style="font-style: italic; color: #777;">2019–2023 · Pertamina Foundation Scholarship & Cargill Global Scholarship Program</small>
+<div style="line-height: 1.4; margin-bottom: 1.5em;">
+  <strong>Bachelor of Science in Agriculture</strong> <br>
+  <span style="color: #555;">Universitas Gadjah Mada</span> <br>
+  <small style="color: #777;"><em>2019–2023 · Pertamina Foundation Scholarship & Cargill Global Scholarship Program</em></small>
+</div>
 
-**Master of Environment** (Environmental Law and Economics) <br>
-<span style="color: #555;">The University of Melbourne</span> <br>
-<small style="font-style: italic; color: #777;">2026–2028 · Indonesia Endowment Fund for Education (LPDP) Scholarship</small>
-
+<div style="line-height: 1.4; margin-bottom: 1.5em;">
+  <strong>Master of Environment</strong> in Environmental Law and Economics <br>
+  <span style="color: #555;">The University of Melbourne</span> <br>
+  <small style="color: #777;"><em>2026–2028 · Indonesia Endowment Fund for Education (LPDP) Scholarship</em></small>
+</div>
 Research Interests
 ------
 - Biodiversity conservation and environmental policy
