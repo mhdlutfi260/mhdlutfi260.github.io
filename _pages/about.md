@@ -28,14 +28,15 @@ key national and regional policy documents:
 - [ASEAN Peatland Management Strategy (APMS)](https://asean.org/wp-content/uploads/2024/04/APMS-2-Apr-Web.pdf)
 
 Education
-------
-**Bachelor of Agriculture** in Plant Protection  
-Gadjah Mada University (2019–2023)  
-*Pertamina Foundation Scholarship & Cargill Global Scholarship Program*
+## Education
 
-**Master of Environment** in Environmental Law and Economics  
-The University of Melbourne (2026–2028)  
-*Indonesia Endowment Fund for Education (LPDP) Scholarship*
+**Bachelor of Science in Agriculture** <br>
+<span style="color: #555;">Universitas Gadjah Mada</span> <br>
+<small style="font-style: italic; color: #777;">2019–2023 · Pertamina Foundation Scholarship & Cargill Global Scholarship Program</small>
+
+**Master of Environment** (Environmental Law and Economics) <br>
+<span style="color: #555;">The University of Melbourne</span> <br>
+<small style="font-style: italic; color: #777;">2026–2028 · Indonesia Endowment Fund for Education (LPDP) Scholarship</small>
 
 Research Interests
 ------
