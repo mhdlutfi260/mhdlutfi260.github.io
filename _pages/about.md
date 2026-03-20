@@ -25,8 +25,6 @@ key national and regional policy documents:
 <span style="color: #555;">The University of Melbourne</span> <br>
 <small style="color: #777;">2026–2028 · Indonesia Endowment Fund for Education (LPDP) Scholarship</small>
 
-<br>
-
 **Bachelor of Science** in Agriculture <br>
 <span style="color: #555;">Gadjah Mada University</span> <br>
 <small style="color: #777;">2019–2023 · Pertamina Foundation Scholarship & Cargill Global Scholarship Program</small>
