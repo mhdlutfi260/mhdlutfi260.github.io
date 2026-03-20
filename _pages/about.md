@@ -8,17 +8,9 @@ redirect_from:
 
 <h1 style="color: #335ecf;">About me</h1>
 
-I am a development practitioner specializing in the intersection of climate 
-economics and conservation policy. I currently serve as a Biodiversity 
-Advisor at the German Agency for International Cooperation (GIZ) Indonesia, 
-where I support three flagship programs, including [Climate and Biodiversity Hub Indonesia](https://www.giz.de/en/projects/climate-and-biodiversity-hub-indonesia), [Strengthening National Implementation of Global Biodiversity Targets](https://www.giz.de/en/projects/starkung-der-nationalen-umsetzung-der-globalen-biodiversitatsziele), and [Sustainable Use of Peatland and Haze Mitigation in ASEAN](https://www.giz.de/en/projects/strengthening-regional-experiences-sustainable-peatland-management-asean-repeat).
+I am a development practitioner and researcher specializing in the intersection of climate economics and conservation policy. I am currently pursuing an MSc in Environment, with a specialization in Environmental Law and Economics, at The University of Melbourne. Prior to this, I worked as a Biodiversity Advisor at the German Agency for International Cooperation (GIZ) Indonesia, where I supported three flagship programs: [(1) Climate and Biodiversity Hub Indonesia](https://www.giz.de/en/projects/climate-and-biodiversity-hub-indonesia), [(2) Strengthening National Implementation of Global Biodiversity Targets](https://www.giz.de/en/projects/starkung-der-nationalen-umsetzung-der-globalen-biodiversitatsziele), and [(3) Sustainable Use of Peatland and Haze Mitigation in ASEAN](https://www.giz.de/en/projects/strengthening-regional-experiences-sustainable-peatland-management-asean-repeat).
 
-In this role, I work closely with key national and regional partners, including 
-Indonesia's Ministry of National Development Planning (BAPPENAS), the 
-Ministry of Environment, the Ministry of Forestry and the ASEAN Secretariat. 
-My work sits at the nexus of ecological integrity and socioeconomic development, 
-with a focus on translating international environmental commitments into 
-actionable national policies.
+Navigating these complex, multi-stakeholder landscapes inspired my current academic focus in utilizing rigorous economic frameworks to design more effective, science-based environmental policies.
 
 During my tenure at GIZ Indonesia, I contributed to the development of several 
 key national and regional policy documents:
