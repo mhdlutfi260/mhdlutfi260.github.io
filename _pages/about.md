@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<h1 style="color: #335ecf;">About me</h1>
 
 I am a development practitioner specializing in the intersection of climate 
 economics and conservation policy. I currently serve as a Biodiversity 
