@@ -39,3 +39,17 @@
   hyphens: auto;
   -webkit-hyphens: auto;
 }
+// ── Heading color ──────────────────────────────
+.page__content h2 {
+  color: #1a3a4a;
+}
+
+.page__content h3 {
+  color: #2d5a3d;
+}
+
+// ── Subtle garis bawah heading ─────────────────
+.page__content h2 {
+  border-bottom: 1px solid rgba(26, 58, 74, 0.15);
+  padding-bottom: 0.3em;
+}
