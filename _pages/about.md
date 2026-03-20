@@ -20,26 +20,40 @@ key national and regional policy documents:
 - [Indonesia's 2nd Nationally Determined Contribution (2nd NDC)](https://unfccc.int/sites/default/files/2025-10/Indonesia_Second%20NDC_2025.10.24.pdf)
 - [ASEAN Peatland Management Strategy (APMS)](https://asean.org/wp-content/uploads/2024/04/APMS-2-Apr-Web.pdf)
 
-<h2 style="color: #335ecf;">Education</h2>
+## Education
+**Master of Environment** in Environmental Law and Economics <br>
+<span style="color: #555;">The University of Melbourne</span> <br>
+<small style="color: #777;">2026–2028 · Indonesia Endowment Fund for Education (LPDP) Scholarship</small>
 
-<div style="line-height: 1.4; margin-bottom: 1.5em;">
-  <strong>Bachelor of Science in Agriculture</strong> <br>
-  <span style="color: #555;">Universitas Gadjah Mada</span> <br>
-  <small style="color: #777;"><em>2019–2023 · Pertamina Foundation Scholarship & Cargill Global Scholarship Program</em></small>
-</div>
+<br>
 
-<div style="line-height: 1.4; margin-bottom: 1.5em;">
-  <strong>Master of Environment</strong> in Environmental Law and Economics <br>
-  <span style="color: #555;">The University of Melbourne</span> <br>
-  <small style="color: #777;"><em>2026–2028 · Indonesia Endowment Fund for Education (LPDP) Scholarship</em></small>
-</div>
-Research Interests
-------
-- Biodiversity conservation and environmental policy
-- Climate change policy and economics
-- International environmental agreements and game theory
+**Bachelor of Science** in Agriculture <br>
+<span style="color: #555;">Gadjah Mada University</span> <br>
+<small style="color: #777;">2019–2023 · Pertamina Foundation Scholarship & Cargill Global Scholarship Program</small>
 
-Contact
-------
-Feel free to reach out for collaborations and discussions at 
-[mhdlutfi260@gmail.com](mailto:mhdlutfi260@gmail.com).
+## Research Interests
+- **International Environmental Agreements & Game Theory:** Analyzing the strategic interactions and incentive structures that drive sovereign compliance in global climate coalitions.
+- **Contract Theory in Conservation:** Designing optimal incentive mechanisms and contracts for ecosystem services, targeting information asymmetry in environmental policy.
+- **Political Economy of Land Use:** Evaluating the socioeconomic and environmental trade-offs of agricultural commodity expansion in developing nations.
+- **Climate Change Economics & Policy:** Assessing the cost-effectiveness and distributive impacts of decarbonization strategies and biodiversity conservation targets.
+
+## Selected Writings & Projects
+### Working Papers & Academic Research
+* Lutfi, M. (2026). [The political economy of deforestation: Contract theory applications in Indonesia's agricultural sector](https://etd.repository.ugm.ac.id/penelitian/detail/222948).
+* Lutfi, M. (2023). [Economic Incentives and Pest Management: A Study of Smallholder Practices](https://etd.repository.ugm.ac.id/penelitian/detail/222948). UGM Repository.
+
+### Policy Reports (Selected)
+* Lutfi, M. (2024). [Indonesia biodiversity status report 2024](https://etd.repository.ugm.ac.id/penelitian/detail/222948). Ministry of Environment & GIZ Indonesia.
+
+### Public Discourse & Op-Eds
+* Lutfi, M. (2026). [Navigating the political economy of Indonesia's palm oil development](https://etd.repository.ugm.ac.id/penelitian/detail/222948). The Jakarta Post].
+
+### Data & Code Repositories
+* Lutfi, M. (2026). [Environmental-policy-models](https://github.com/mhdlutfi260/environmental-policy-models) (Version 1.0). GitHub.
+
+
+## Contact
+I am always eager to connect with fellow researchers, practitioners, and organizations. Whether you would like to discuss potential research collaborations, policy consulting, or academic opportunities, please feel free to reach out.
+
+**Email:** [mhdlutfi260@gmail.com](mailto:mhdlutfi260@gmail.com) <br>
+**GitHub:** [mhdlutfi260](https://github.com/mhdlutfi260)
